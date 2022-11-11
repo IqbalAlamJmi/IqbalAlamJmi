@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IqbalAlamJmi
+- 👋 Hi, I’m Iqbal Alam
 - 👀 I’m interested in Full Stack Development, Machine Learning, & Deep Learning
 - 💞️ I’m looking to collaborate on Full Stack Development, Machine Learning, & Deep Learning
 - 📫 How to reach me holvi645@gmail.com
