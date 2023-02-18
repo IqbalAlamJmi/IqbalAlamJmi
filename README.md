@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Iqbal Alam
-- 👀 I’m interested in Full Stack Development, Machine Learning, & Deep Learning
-- 💞️ I’m looking to collaborate on Full Stack Development, Machine Learning, & Deep Learning
+- 👋 Hello, I’m Iqbal Alam
+- 👀 Interested in Front-End Web Development, Machine Learning, & Deep Learning.
+- 💞️ Looking to collaborate on Front-End Web Development, Machine Learning, & Deep Learning.
 - 📫 Reach me at holvi645@gmail.com
 - https://github.com/Alam-Iqbal
 <!---
