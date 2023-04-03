@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Iqbal Alam
 - 👀 Interested in Front-End Web Development & Deep Learning.
-- 💞️ Looking to collaborate on Front-End Web Development, & Deep Learning.
+- 💞️ Looking to collaborate on Front-End Web Development & Deep Learning.
 - 📫 Reach me at holvi645@gmail.com
 - Alternate Profile https://github.com/Alam-Iqbal
 <!---
