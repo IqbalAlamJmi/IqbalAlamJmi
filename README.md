@@ -1,13 +1,13 @@
 <!-- Profile README for Iqbal Alam -->
 
 <h1 align="center">Hi 👋, I'm Iqbal Alam</h1>
-<h3 align="center">Frontend Developer | React.js Enthusiast</h3>
+<h3 align="center">Frontend Developer | AI/ML Enthusiast</h3>
 
 ---
 
 🌟 **About Me**
 
-Frontend Developer with 2.8 years of experience building scalable, responsive web apps using **React.js**, **JavaScript**, **Redux**, **HTML5**, and **CSS3**. Skilled in modular UI development, RESTful API integration, and performance optimization. Passionate about delivering user-focused solutions that reduce load times and improve engagement. Additionally, experienced in AI/ML development, having built deep learning and machine learning based brain tumor detection systems.
+Frontend Developer with 3 years of experience building scalable, responsive web apps using **React.js**, **JavaScript**, **Redux**, **HTML5**, and **CSS3**. Skilled in modular UI development, RESTful API integration, and performance optimization. Passionate about delivering user-focused solutions that reduce load times and improve engagement. Additionally, experienced in AI/ML development, having built deep learning and machine learning based brain tumor detection systems.
 
 ---
 
