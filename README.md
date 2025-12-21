@@ -7,7 +7,7 @@
 
 🌟 **About Me**
 
-Frontend Developer with 2.8 years of experience building scalable, responsive web apps using **React.js**, **JavaScript**, **Redux**, **HTML5**, and **CSS3**. Skilled in modular UI development, RESTful API integration, and performance optimization. Passionate about delivering user-focused solutions that reduce load times and improve engagement.
+Frontend Developer with 2.8 years of experience building scalable, responsive web apps using **React.js**, **JavaScript**, **Redux**, **HTML5**, and **CSS3**. Skilled in modular UI development, RESTful API integration, and performance optimization. Passionate about delivering user-focused solutions that reduce load times and improve engagement. Additionally, experienced in AI/ML development, having built deep learning and machine learning based brain tumor detection systems.
 
 ---
 
@@ -55,6 +55,9 @@ Frontend Developer with 2.8 years of experience building scalable, responsive we
 
 - [Netflix Clone Live](https://bright-beijinho-86a408.netlify.app/dashboard)
 - [E-Commerce Live](https://luxury-yeot-785ecc.netlify.app/)
+- [Deep Learning project](https://github.com/IqbalAlamJmi/Project-BTC/)
+- [Machine Learning project](https://github.com/IqbalAlamJmi/Project-Brain-Tumor-Classification/)
+- [Published Paper](https://link.springer.com/chapter/10.1007/978-981-16-6289-8_36/)
 
 ---
 
