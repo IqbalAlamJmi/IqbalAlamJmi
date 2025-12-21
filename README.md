@@ -15,6 +15,7 @@ Frontend Developer with 2.8 years of experience building scalable, responsive we
 
 - React.js & Redux
 - JavaScript (ES6+)
+- Deep Learning & Machine Learning
 - HTML5 & CSS3
 - RESTful API Integration
 - Performance Optimization
